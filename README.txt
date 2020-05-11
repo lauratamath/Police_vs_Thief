@@ -1,0 +1,1 @@
+Este juego, es sobre un ladrón que debe de alcanzar la bolsa de dinero, sin que el policia lo observe, si este se topa con el policía, automáticamente desaparece, pero si este logra conseguir la bolsa de dinero, puede pasar enfrende del policía, sin que el ladrón muera.
